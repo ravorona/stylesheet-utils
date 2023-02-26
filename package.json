@@ -1,0 +1,9 @@
+{
+  "name": "@ravorona/stylesheet-utils",
+  "version": "0.1.0",
+  "description": "Stylesheet utilities",
+  "main": "index.js",
+  "repository": "https://ravorona@github.com/ravorona/stylesheet-utils.git",
+  "author": "яαvoroηα <h.rakotonjanahary@gmail.com>",
+  "license": "MIT"
+}
